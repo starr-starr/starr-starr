@@ -2,7 +2,6 @@
 ### Hi ,Nice to meet you!
 - 🔭 I’m currently studying at  Nanchang University
 - 🌱 I’m currently learning React、Python ...
-- 📫 My Juejin: https://juejin.cn/user/1462766462840381...
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starr-starr)](https://github.com/anuraghazra/github-readme-stats)<br>
