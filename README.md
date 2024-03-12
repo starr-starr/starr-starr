@@ -1,12 +1,3 @@
-<!-- 
-### Hi ,Nice to meet you!
-- 🔭 I’m currently studying at  Nanchang University
-- 🌱 I’m currently learning React、Python ...
-<hr>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starr-starr)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Lorin-github](https://github-readme-stats.vercel.app/api?username=starr-starr&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
- -->
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
@@ -34,39 +25,31 @@
   </div>
 </div>
 
-#  🙋 Hello
+#  🙋 Hello,Nice to meet you!
 
 
-### 🤺 About Me
+## 🤺 About Me
 - 🔭 I’m currently studying at  Nanchang University
 - 🌱 I’m currently learning React、Python ...
 - 🍃 <strong>Happy every day</strong>
 
-<h3>🔍 Code</h3>
-<table>
-<tr><td>
-
-
-<div align="center">
-
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=starr-starr&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=starr-starr&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=starr-starr&theme=default&hide_border=true" />
-</picture>
-
-</div>
+## 🔍 Code
 
 <div align="center" >
 
 <!-- GitHub 数据统计 -->
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=starr-starr&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=starr-starr&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
+ <a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=starr-starr&show_icons=true&include_all_commits=true&hide_border=true" />
+ </a> 
+ <a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starr-starr&layout=compact&hide_border=true" />
+ </a> 
+<br>
 
 </div>
 
 
+## 🎈 Skills
 <div align="center" >
 
 <!-- just img 图片 -->
