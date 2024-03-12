@@ -40,7 +40,6 @@
 ### 🤺 About Me
 - 🔭 I’m currently studying at  Nanchang University
 - 🌱 I’m currently learning React、Python ...
-- 📫 My Blog: https://juejin.cn/user/1462766462840381...
 - 🍃 <strong>Happy every day</strong>
 
 <h3>🔍 Code</h3>
