@@ -1,4 +1,5 @@
 ### Hi there 👋
+- [![Lorin-github](https://github-readme-stats.vercel.app/api?username=starr-starr)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **starr-starr/starr-starr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
